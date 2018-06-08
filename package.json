@@ -1,0 +1,19 @@
+{
+  "name": "learn-nodejs-by-building-10-projects",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kamykov/nodeLearnProject.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kamykov/nodeLearnProject/issues"
+  },
+  "homepage": "https://github.com/kamykov/nodeLearnProject#readme"
+}
